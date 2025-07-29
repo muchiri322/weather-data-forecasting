@@ -10,11 +10,11 @@ The objective is to Build a lightweight ETL pipeline that pushes weather data in
 - Python 3.+
 - Jupyter Notebook
 - pandas
-- requests (if API-based expansion is desired)
+- requests (open weather Api)
 - snowflake-connector-python
-- sqlalchemy (optional)
+  
 
-- 
+ 
 ##  Setup Instructions
 
 Install required packages:
